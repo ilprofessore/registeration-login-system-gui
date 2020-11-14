@@ -1,6 +1,6 @@
 # registeration_login_system-GUI
 
-this is a basic registeration, login and session system which also makes the use of a simple emcryption.
+this is a basic registeration, login and session system which also makes the use of a simple encryption.
 the encryption can be customized as per your needs by customising the source code.
 create the code using the 'codekey' module.
 paste the code into the 'username+_notif.ilprofessore' file (create it first);
