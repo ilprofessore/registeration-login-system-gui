@@ -8,3 +8,4 @@ username will be the one you registered in the program with.
 follow the coding and decoing instructions carefully (in the respective modules),
 even the slightest mistake could render the 'notification' useless.
 note that both, the 'main.exe' file and the 'source code' are dependent on the folders 'files' and 'icon'.
+you have to create these folders and place the necessary files for the code to work properly.
